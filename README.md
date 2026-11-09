@@ -67,10 +67,10 @@ MathWhiz/
 
 ## Screenshots
 ### Home Page
-![Home](screenshots/home.png)
+![Home](d:\dOWNLOAD\MathWhiz (1)\MathWhiz\screenshots\Screenshot 2026-11-09 202624.png)
 ### Game Page
-![Game](screenshots/game.png)
+![Game](d:\dOWNLOAD\MathWhiz (1)\MathWhiz\screenshots\Screenshot 2026-11-09 202638.png)
 ### Result Page
-![Result Page](screenshots/result.png)
+![Result Page](d:\dOWNLOAD\MathWhiz (1)\MathWhiz\screenshots\Screenshot 2026-11-09 202727.png)
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](d:\dOWNLOAD\MathWhiz (1)\MathWhiz\screenshots\Screenshot 2026-11-09 202740.png)
